@@ -1,0 +1,7 @@
+Para correr la simulación se tienen que mandar 5 parámetros, explicados siguientemente:
+Numero de aspiradoras, se refiere a cuantas aspiradoras tendrá la simulación. Para modificar este parámetro debes ir a la línea 47 del main.py, ahí saldrá un numero al lado de una V, el numero mencionado es el que controla la cantidad de aspiradoras.
+Porcentaje de basura, se refiere a que porcentaje de la matriz estará llena de basura. Para modificar este parámetro debes ir a la línea 47 del main.py, ahí saldrá un numero al lado de una T, el numero mencionado es el que controla el porcentaje de basura.
+Ancho de matriz, se refiere al ancho que tendrá la matriz. Para modificar este parámetro debes ir a la línea 47 del main.py, ahí saldrá un numero al lado de una leyenda que dice “width”, el numero mencionado es el que controla el ancho de la matriz.
+Largo de matriz, se refiere al ancho que tendrá la matriz. Para modificar este parámetro debes ir a la línea 47 del main.py, ahí saldrá un numero al lado de una leyenda que dice “height”, el numero mencionado es el que controla el largo de la matriz.
+El largo y ancho de la matriz deben ser iguales en la línea 47 del main.py y en la línea 31 y 32 del mismo archivo.
+Finalmente, el tiempo máximo en el que se correrá la simulación, este parámetro esta en la línea 16 del vacuumModel.py, la variable se llama “Max time” y al cambiar su valor cambias el tiempo máximo.
